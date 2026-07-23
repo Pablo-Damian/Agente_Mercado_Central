@@ -1,0 +1,201 @@
+SKU,Cód. de Barras (EAN),Descripción,Marca,Categoría,Subcategoría,UN,Ubicación,Stock Actual,Stock Mínimo,Stock Máximo,Lote,Fecha de Fabricación,Fecha de Vencimiento,Costo Unitario,Precio de Venta Unitario,Proveedor Principal,Tiempo de Reposición
+MER-001,7891000000001,Arroz Blanco Tipo 1 5kg,Lucchetti,Abarrotes,Granos,UN,Pasillo 1,150,50,300,L-202601,10/1/2026,10/1/2027,2.220,3.108,Molinos Río de la Plata,3 días
+MER-002,7891000000002,Arroz Parbolizado 5kg,Goya,Abarrotes,Granos,UN,Pasillo 1,80,30,200,L-202602,15/2/2026,15/2/2027,2.280,3.180,Molinos Río de la Plata,3 días
+MER-003,7891000000003,Arroz Integral 1kg,Molinos Ala,Abarrotes,Granos,UN,Pasillo 1,45,15,100,L-202603,20/3/2026,20/3/2027,660,1.068,Molinos Río de la Plata,3 días
+MER-004,7891000000004,Arroz Blanco Tipo 1 5kg,Lucchetti,Abarrotes,Granos,UN,Pasillo 1,120,50,300,L-202604,5/4/2026,5/4/2027,2.304,3.228,Makro Argentina,4 días
+MER-005,7891000000005,Arroz Arborio 1kg,Gallo,Abarrotes,Granos Especiales,UN,Pasillo 1,20,10,50,L-202605,10/5/2026,10/5/2027,1.800,2.748,Distribuidora Italiana SA,7 días
+MER-006,7891000000006,Frijol Pinto (Carioca) 1kg,Lucchetti,Abarrotes,Granos,UN,Pasillo 1,200,80,400,L-202606,15/5/2026,15/11/2026,624,959,Molinos Río de la Plata,3 días
+MER-007,7891000000007,Frijol Negro 1kg,Goya,Abarrotes,Granos,UN,Pasillo 1,150,50,300,L-202607,20/5/2026,20/11/2026,660,1.019,Molinos Río de la Plata,3 días
+MER-008,7891000000008,Frijol Pinto 1kg,La Merced,Abarrotes,Granos,UN,Pasillo 1,180,80,400,L-202608,1/6/2026,1/12/2026,696,1.068,Molinos Río de la Plata,3 días
+MER-009,7891000000009,Frijol Carita / Fríjol Blanco con ojo 500g,Goya,Abarrotes,Granos,UN,Pasillo 1,60,20,150,L-202609,10/1/2026,10/1/2027,540,839,General Mills,5 días
+MER-010,7891000000010,Frijol Blanco 500g,Lucchetti,Abarrotes,Granos,UN,Pasillo 1,50,15,100,L-202610,15/2/2026,15/2/2027,600,936,General Mills,5 días
+MER-011,7891000000011,Pasta Espagueti 500g,La Moderna,Abarrotes,Pastas,UN,Pasillo 2,150,50,300,L-202611,1/3/2026,1/3/2028,384,599,Grupo La Moderna,4 días
+MER-012,7891000000012,Pasta Penne 500g,Doria,Abarrotes,Pastas,UN,Pasillo 2,100,40,250,L-202612,15/3/2026,15/3/2028,384,599,Grupo Nutresa,4 días
+MER-013,7891000000013,Pasta Tornillo / Fusilli 500g,Lucchetti,Abarrotes,Pastas,UN,Pasillo 2,120,40,250,L-202613,10/4/2026,10/4/2028,348,540,Tresmontes,4 días
+MER-014,7891000000014,Pasta Espagueti 500g,Barilla,Abarrotes,Pastas Premium,UN,Pasillo 2,80,30,150,L-202614,20/4/2026,20/4/2028,660,1.068,Distribuidora Italiana SA,7 días
+MER-015,7891000000015,Sopa Instantánea Pollo 85g,Maruchan,Abarrotes,Pastas Instantáneas,UN,Pasillo 2,300,100,600,L-202615,5/5/2026,5/2/2027,168,275,Toyo Suisan,3 días
+MER-016,7891000000016,Aceite de Soya 900ml,Cocinero,Abarrotes,Aceites,UN,Pasillo 3,400,150,800,L-202616,1/6/2026,1/6/2027,576,779,Molinos Río de la Plata,3 días
+MER-017,7891000000017,Aceite de Soya 900ml,Natura,Abarrotes,Aceites,UN,Pasillo 3,350,150,800,L-202617,5/6/2026,5/6/2027,564,767,Aceitera General Deheza,3 días
+MER-018,7891000000018,Aceite de Girasol 900ml,Natura,Abarrotes,Aceites Especiales,UN,Pasillo 3,60,20,120,L-202618,10/5/2026,10/5/2027,1.080,1.668,Unilever Argentina,3 días
+MER-019,7891000000019,Aceite de Oliva Extra Virgen 500ml,Gallo,Abarrotes,Aceites,UN,Pasillo 3,100,30,200,L-202619,15/1/2026,15/1/2028,3.000,4.668,Importadora Gourmet,5 días
+MER-020,7891000000020,Aceite de Oliva Extra Virgen 500ml,Carbonell,Abarrotes,Aceites,UN,Pasillo 3,90,30,200,L-202620,20/2/2026,20/2/2028,2.940,4.548,Deoleo Argentina,5 días
+MER-021,7891000000021,Harina de Trigo Tradicional 1kg,Blanca Flor,Abarrotes,Harinas,UN,Pasillo 4,150,50,350,L-202621,1/4/2026,1/10/2026,420,659,Alicorp,3 días
+MER-022,7891000000022,Harina de Trigo Leudante 1kg,Selecta,Abarrotes,Harinas,UN,Pasillo 4,100,40,250,L-202622,15/4/2026,15/10/2026,456,719,Molinerías,3 días
+MER-023,7891000000023,Harina de Maíz Precocida 1kg,P.A.N.,Abarrotes,Harinas,UN,Pasillo 4,80,30,200,L-202623,10/5/2026,10/5/2027,480,780,Empresas Polar,5 días
+MER-024,7891000000024,Harina de Maíz 1kg,Maseca,Abarrotes,Harinas,UN,Pasillo 4,90,30,200,L-202624,20/5/2026,20/5/2027,300,504,Gruma,5 días
+MER-025,7891000000025,Premezcla para Pastel Chocolate 400g,Betty Crocker,Abarrotes,Postres,UN,Pasillo 4,70,25,150,L-202625,1/6/2026,1/6/2027,468,744,General Mills,4 días
+MER-026,7891000000026,Azúcar Refinada 1kg,Domino,Abarrotes,Azúcares,UN,Pasillo 5,400,150,800,L-202626,5/6/2026,5/6/2028,396,587,ASR Group,3 días
+MER-027,7891000000027,Azúcar Blanca 1kg,Incauca,Abarrotes,Azúcares,UN,Pasillo 5,300,100,600,L-202627,10/6/2026,10/6/2028,360,540,Incauca S.A.,3 días
+MER-028,7891000000028,Azúcar Mascabado / Rubia 500g,Ledesma,Abarrotes,Azúcares,UN,Pasillo 5,50,15,100,L-202628,15/5/2026,15/5/2027,780,1.188,Ledesma,5 días
+MER-029,7891000000029,Edulcorante Sucralosa 80ml,Splenda,Abarrotes,Edulcorantes,UN,Pasillo 5,80,25,150,L-202629,20/4/2026,20/4/2028,840,1.308,Heartland FVG,4 días
+MER-030,7891000000030,Café Tostado y Molido 500g,Sello Rojo,Abarrotes,Cafés,UN,Pasillo 5,250,80,500,L-202630,1/6/2026,1/6/2027,1.500,2.148,Nutresa,3 días
+MER-031,7891000000031,Café Tostado y Molido 500g,Juan Valdez,Abarrotes,Cafés,UN,Pasillo 5,220,80,450,L-202631,5/6/2026,5/6/2027,1.560,2.220,Procafecol,3 días
+MER-032,7891000000032,Café Soluble Tradicional 50g,Nescafé,Abarrotes,Cafés,UN,Pasillo 5,60,20,120,L-202632,10/5/2026,10/5/2028,660,1.020,Nestlé,4 días
+MER-033,7891000000033,Filtro de Papel para Café 30 un,Melitta,Abarrotes,Accesorios Café,UN,Pasillo 5,100,30,200,L-202633,15/4/2026,Indeterminado,360,599,Melitta,3 días
+MER-034,7891000000034,Galleta Rellena Chocolate 130g,Oreo,Abarrotes,Galletas,UN,Pasillo 6,150,50,300,L-202634,1/5/2026,1/2/2027,216,359,Mondelez,4 días
+MER-035,7891000000035,Galleta Rellena 130g,Emperador,Abarrotes,Galletas,UN,Pasillo 6,140,50,300,L-202635,5/5/2026,5/2/2027,204,347,Gamesa,4 días
+MER-036,7891000000036,Galleta Salada 200g,Ritz,Abarrotes,Galletas,UN,Pasillo 6,180,60,400,L-202636,10/5/2026,10/1/2027,300,479,Mondelez,4 días
+MER-037,7891000000037,Galleta Tipo María / Maicena 200g,Ducales,Abarrotes,Galletas,UN,Pasillo 6,160,60,350,L-202637,15/5/2026,15/1/2027,276,456,Noel,4 días
+MER-038,7891000000038,Leche Condensada 395g,La Lechera,Abarrotes,Enlatados y Dulces,UN,Pasillo 7,200,80,500,L-202638,1/6/2026,1/6/2027,696,1.019,Nestlé,4 días
+MER-039,7891000000039,Crema de Leche / Media Crema 200g,Nestlé,Abarrotes,Enlatados y Dulces,UN,Pasillo 7,250,100,600,L-202639,5/6/2026,5/6/2027,384,599,Nestlé,4 días
+MER-040,7891000000040,Maíz Dulce en Grano enlatado 170g,Herdez,Abarrotes,Enlatados,UN,Pasillo 7,150,50,350,L-202640,10/5/2026,10/5/2028,252,420,Grupo Herdez,4 días
+BEB-041,7892000000041,Refresco de Cola 2L,Coca-Cola,Bebidas,Refrescos y Gaseosas,UN,Pasillo 8,300,100,800,L-202641,1/6/2026,1/12/2026,780,1.140,Femsa,2 días
+BEB-042,7892000000042,Refresco Sabor Manzana/Uva 2L,Postobón,Bebidas,Refrescos y Gaseosas,UN,Pasillo 8,250,80,700,L-202642,5/6/2026,5/12/2026,696,1.019,Postobón,2 días
+BEB-043,7892000000043,Refresco de Naranja 2L,Fanta,Bebidas,Refrescos y Gaseosas,UN,Pasillo 8,150,50,400,L-202643,10/6/2026,10/12/2026,660,995,Femsa,2 días
+BEB-044,7892000000044,Refresco de Cola Cero 2L,Coca-Cola,Bebidas,Refrescos y Gaseosas,UN,Pasillo 8,120,40,300,L-202644,15/6/2026,15/12/2026,780,1.140,Femsa,2 días
+BEB-045,7892000000045,Refresco de Limón 2L,Sprite,Bebidas,Refrescos y Gaseosas,UN,Pasillo 8,100,30,250,L-202645,20/5/2026,20/11/2026,660,995,Femsa,2 días
+BEB-046,7892000000046,Jugo de Uva / Durazno 1L,Jumex,Bebidas,Jugos,UN,Pasillo 8,80,25,200,L-202646,1/5/2026,1/5/2027,1.680,2.628,Grupo Jumex,5 días
+BEB-047,7892000000047,Jugo de Naranja 1L,Florida 7,Bebidas,Jugos Refrigerados,UN,Refrigerador 1,50,20,120,L-202647,10/6/2026,10/7/2026,1.140,1.788,Florida,3 días
+BEB-048,7892000000048,Néctar de Durazno / Melocotón 1L,Del Valle,Bebidas,Jugos en Caja,UN,Pasillo 8,100,40,300,L-202648,15/5/2026,15/5/2027,576,899,Femsa,4 días
+BEB-049,7892000000049,Néctar Variado 1L,Watt's,Bebidas,Jugos en Caja,UN,Pasillo 8,120,40,300,L-202649,20/5/2026,20/5/2027,540,839,CCU,4 días
+BEB-050,7892000000050,Jugo en Polvo Uva 25g,Tang,Bebidas,Jugos en Polvo,UN,Pasillo 8,400,150,1000,L-202650,1/6/2026,1/6/2027,96,162,Mondelez,3 días
+BEB-051,7892000000051,"Agua Mineral sin Gas 1,5L",Bonafont,Bebidas,Aguas,UN,Pasillo 9,300,100,800,L-202651,5/6/2026,5/6/2027,180,348,Danone,2 días
+BEB-052,7892000000052,"Agua Mineral con Gas 1,5L",Ciel,Bebidas,Aguas,UN,Pasillo 9,150,50,400,L-202652,10/6/2026,10/6/2027,192,359,Femsa,2 días
+BEB-053,7892000000053,Agua Mineral sin Gas 500ml,Cristal,Bebidas,Aguas,UN,Pasillo 9,400,150,1000,L-202653,15/6/2026,15/6/2027,108,216,Postobón,2 días
+BEB-054,7892000000054,Agua Tónica Lata 350ml,Schweppes,Bebidas,Aguas Especiales,UN,Pasillo 9,120,40,300,L-202654,20/5/2026,20/5/2027,300,504,Femsa,3 días
+BEB-055,7892000000055,Bebida Isotónica Mandarina 500ml,Gatorade,Bebidas,Deportivas,UN,Pasillo 9,90,30,200,L-202655,1/6/2026,1/12/2026,420,708,PepsiCo,3 días
+BEB-056,7892000000056,Cerveza Clara Lata 355ml,Corona,Bebidas,Alcohólicas - Cervezas,UN,Pasillo 10,500,200,1500,L-202656,10/6/2026,10/12/2026,276,419,Grupo Modelo,2 días
+BEB-057,7892000000057,Cerveza Lata 355ml,Modelo Especial,Bebidas,Alcohólicas - Cervezas,UN,Pasillo 10,450,180,1200,L-202657,12/6/2026,12/12/2026,288,431,Grupo Modelo,2 días
+BEB-058,7892000000058,Cerveza Malta Lata 355ml,Heineken,Bebidas,Alcohólicas - Cervezas,UN,Pasillo 10,300,100,800,L-202658,5/6/2026,5/12/2026,456,659,Heineken,2 días
+BEB-059,7892000000059,Cerveza Malta Botella 330ml,Stella Artois,Bebidas,Alcohólicas - Cervezas,UN,Pasillo 10,150,50,400,L-202659,8/6/2026,8/12/2026,504,755,Ambev,2 días
+BEB-060,7892000000060,Vino Tinto Seco Reservado 750ml,Concha Y Toro,Bebidas,Alcohólicas - Vinos,UN,Pasillo 10,60,20,150,L-202660,10/1/2025,Indeterminado,3.360,5.508,Importadora Sur,7 días
+LAT-061,7893000000061,Leche UHT Entera 1L,Lala,Lácteos,Leches,UN,Pasillo 11,500,150,1000,L-202661,1/6/2026,1/10/2026,492,719,Grupo Lala,3 días
+LAT-062,7893000000062,Leche UHT Descremada 1L,Alpura,Lácteos,Leches,UN,Pasillo 11,200,60,500,L-202662,5/6/2026,5/10/2026,504,732,Alpura,3 dias
+LAT-063,7893000000063,Leche UHT Deslactosada 1L,Dos Pinos,Lácteos,Leches Especiales,UN,Pasillo 11,150,50,300,L-202663,10/6/2026,10/10/2026,660,995,Dos Pinos,3 días
+LAT-064,7893000000064,Leche UHT Entera 1L,Parmalat,Lácteos,Leches,UN,Pasillo 11,300,100,700,L-202664,12/6/2026,12/10/2026,516,755,Lactalis,3 días
+LAT-065,7893000000065,Leche Fermentada 6x80g,Yakult,Lácteos,Yogures,UN,Refrigerador 2,80,30,200,L-202665,10/6/2026,10/7/2026,840,1.308,Yakult,2 días
+LAT-066,7893000000066,Yogur de Fresa / Frutilla 170g,Danone,Lácteos,Yogures,UN,Refrigerador 2,120,40,300,L-202666,12/6/2026,12/7/2026,216,359,Danone,2 días
+LAT-067,7893000000067,Yogur Natural 170g,Nestlé,Lácteos,Yogures,UN,Refrigerador 2,90,30,200,L-202667,13/6/2026,13/7/2026,240,395,Nestlé,2 días
+LAT-068,7893000000068,Yogur Bebible / Licuado 220g,Yoplait,Lácteos,Yogures Especiales,UN,Refrigerador 2,100,35,250,L-202668,14/6/2026,14/7/2026,300,492,Sigma Alimentos,2 días
+LAT-069,7893000000069,Mantequilla con Sal 200g,Gloria,Lácteos,Mantequillas,UN,Refrigerador 3,60,20,150,L-202669,1/6/2026,1/9/2026,1.140,1.788,Gloria S.A.,4 días
+LAT-070,7893000000070,Mantequilla sin Sal 200g,La Serenísima,Lácteos,Mantequillas,UN,Refrigerador 3,40,15,100,L-202670,5/6/2026,5/9/2026,1.140,1.788,Mastellone,4 días
+LAT-071,7893000000071,Margarina con Sal 500g,Primavera,Lácteos,Margarinas,UN,Refrigerador 3,150,50,400,L-202671,10/6/2026,10/12/2026,660,1.020,Unilever,3 días
+LAT-072,7893000000072,Margarina sin Sal 500g,Iberia,Lácteos,Margarinas,UN,Refrigerador 3,80,30,200,L-202672,12/6/2026,12/12/2026,660,1.020,Upfield,3 días
+LAT-073,7893000000073,Queso Crema Tradicional / Untable 200g,Philadelphia,Lácteos,Quesos Untables,UN,Refrigerador 3,120,40,300,L-202673,10/6/2026,10/9/2026,696,1.079,Mondelez,3 días
+LAT-074,7893000000074,Queso Amarillo Untable 200g,La Villita,Lácteos,Quesos Untables,UN,Refrigerador 3,60,20,150,L-202674,11/6/2026,11/9/2026,744,1.140,Sigma Alimentos,3 días
+LAT-075,7893000000075,Queso Manchego en Rebanadas 150g,Fud,Lácteos,Quesos,UN,Refrigerador 4,100,30,250,L-202675,10/6/2026,10/8/2026,780,1.308,Sigma Alimentos,3 días
+LAT-076,7893000000076,Queso Amarillo / Americano Rebanadas 150g,Nochebuena,Lácteos,Quesos,UN,Refrigerador 4,80,25,200,L-202676,12/6/2026,12/8/2026,816,1.380,Sigma Alimentos,3 días
+LAT-077,7893000000077,Queso Fresco / Panela 500g,Zwan,Lácteos,Quesos,UN,Refrigerador 4,40,15,100,L-202677,14/6/2026,4/7/2026,2.160,3.468,Qualtia,2 días
+LAT-078,7893000000078,Queso Parmesano Rallado 50g,Los Volcanes,Lácteos,Quesos,UN,Pasillo 11,150,50,350,L-202678,1/5/2026,1/11/2026,420,719,Lácteos Volcanes,4 días
+LAT-079,7893000000079,Queso Oaxaca / Mozzarella Trozo,Fud,Lácteos,Quesos,KG,Refrigerador 4,15,5,40,L-202679,1/6/2026,1/10/2026,5.400,9.588,Sigma Alimentos,3 días
+LAT-080,7893000000080,Crema de Leche Ácida / Sour Cream 200g,Lala,Lácteos,Quesos Untables,UN,Refrigerador 3,50,20,120,L-202680,10/6/2026,10/8/2026,720,1.140,Grupo Lala,3 días
+FRI-081,7894000000081,Jamón Cocido en Rebanadas 200g,Fud,Carnes Frías,Embutidos,UN,Refrigerador 4,120,40,300,L-202681,10/6/2026,10/8/2026,660,1.079,Sigma Alimentos,3 días
+FRI-082,7894000000082,Jamón Cocido Pieza,Zwan,Carnes Frías,Embutidos,KG,Vitrina Fríos,25,10,60,L-202682,5/6/2026,5/9/2026,2.640,4.308,Qualtia,3 días
+FRI-083,7894000000083,Fiambre de Cerdo Pieza,San Rafael,Carnes Frías,Embutidos,KG,Vitrina Fríos,30,10,80,L-202683,1/6/2026,1/9/2026,1.680,2.748,Sigma Alimentos,3 días
+FRI-084,7894000000084,Mortadela Ahumada en Rebanadas 200g,Paladini,Carnes Frías,Embutidos,UN,Refrigerador 4,100,30,250,L-202684,12/6/2026,12/8/2026,456,719,Frigorífico Paladini,3 días
+FRI-085,7894000000085,Mortadela Premium Pieza,Chimex,Carnes Frías,Embutidos,KG,Vitrina Fríos,20,8,50,L-202685,5/6/2026,5/9/2026,2.160,3.588,Sigma Alimentos,3 días
+FRI-086,7894000000086,Pechuga de Pavo en Rebanadas 150g,Fud,Carnes Frías,Embutidos Especiales,UN,Refrigerador 4,60,20,150,L-202686,10/6/2026,10/8/2026,1.020,1.740,Sigma Alimentos,3 días
+FRI-087,7894000000087,Salami Italiano en Rebanadas 100g,San Rafael,Carnes Frías,Embutidos Especiales,UN,Refrigerador 4,50,15,120,L-202687,8/6/2026,8/9/2026,1.080,1.908,Sigma Alimentos,3 días
+FRI-088,7894000000088,Salchicha para Hot Dog a Granel,Zwan,Carnes Frías,Salchichas,KG,Vitrina Fríos,50,20,120,L-202688,10/6/2026,10/8/2026,960,1.548,Qualtia,2 días
+FRI-089,7894000000089,Salchicha Viena Paquete 500g,Fud,Carnes Frías,Salchichas Especiales,UN,Refrigerador 4,30,10,80,L-202689,5/6/2026,5/8/2026,2.160,3.468,Sigma Alimentos,4 días
+FRI-090,7894000000090,Chorizo / Salchicha Ahumada,Paladini,Carnes Frías,Embutidos,KG,Vitrina Fríos,40,15,100,L-202690,1/6/2026,1/9/2026,1.920,3.228,Frigorífico Paladini,3 días
+FRI-091,7894000000091,Chorizo Grueso Especial,Zwan,Carnes Frías,Embutidos,KG,Vitrina Fríos,25,10,60,L-202691,5/6/2026,5/9/2026,2.220,3.588,Qualtia,3 días
+FRI-092,7894000000092,Tocino en Cubos / Panceta 200g,Fud,Carnes Frías,Tocino,UN,Refrigerador 4,80,25,200,L-202692,10/6/2026,10/9/2026,900,1.548,Sigma Alimentos,3 días
+FRI-093,7894000000093,Tocino Pieza,Chimex,Carnes Frías,Tocino,KG,Vitrina Fríos,30,10,80,L-202693,5/6/2026,5/9/2026,2.880,4.788,Sigma Alimentos,3 días
+FRI-094,7894000000094,Masa Fresca para Empanadas 500g,La Salteña,Carnes Frías,Masas Frescas,UN,Refrigerador 4,60,20,150,L-202694,10/6/2026,10/7/2026,660,1.068,General Mills,3 días
+FRI-095,7894000000095,Ñoquis / Pasta Fresca 500g,Rana,Carnes Frías,Masas Frescas,UN,Refrigerador 4,40,15,100,L-202695,12/6/2026,12/7/2026,780,1.260,Giovanni Rana,3 días
+FRI-096,7894000000096,Arepas Congeladas / Tequeños 400g,Goya,Carnes Frías,Congelados,UN,Congelador 1,100,30,250,L-202696,1/5/2026,1/11/2026,1.440,2.388,Goya Foods,4 días
+FRI-097,7894000000097,Lasaña Boloñesa Congelada 600g,Stouffer's,Carnes Frías,Platos Listos,UN,Congelador 1,80,25,200,L-202697,15/5/2026,15/11/2026,1.380,2.268,Nestlé,4 días
+FRI-098,7894000000098,Carne para Hamburguesa 672g,SuKarne,Carnes Frías,Congelados,UN,Congelador 1,120,40,300,L-202698,20/5/2026,20/11/2026,1.800,2.988,SuKarne,4 días
+FRI-099,7894000000099,Papas Fritas Congeladas 2kg,McCain,Carnes Frías,Congelados,UN,Congelador 2,60,20,150,L-202699,10/5/2026,10/5/2027,3.000,4.788,McCain,5 días
+FRI-100,7894000000100,"Helado de Crema 1,5L",Holanda,Carnes Frías,Helados,UN,Congelador 3,50,15,120,L-202700,1/6/2026,1/6/2027,1.920,3.228,Unilever,4 días
+ACO-101,7895000000101,Corte de Res - Bife / Lomo Fino,SuKarne,Carnicería,Carne de Res,KG,Vitrina Carnes,80,30,200,L-INT101,12/6/2026,19/6/2026,3.840,5.988,SuKarne,1 día
+ACO-102,7895000000102,Corte de Res - Cuadril / Cadera,Carnes Ideal,Carnicería,Carne de Res,KG,Vitrina Carnes,60,20,150,L-INT102,13/6/2026,20/6/2026,3.600,5.628,Frigorífico Ideal,1 día
+ACO-103,7895000000103,Corte de Res - Picaña / Punta Trasera,SuKarne,Carnicería,Carne de Res Premium,KG,Refrigerador Carnes,30,10,80,L-INT103,1/6/2026,1/8/2026,7.800,11.988,SuKarne,2 días
+ACO-104,7895000000104,Corte de Res - Pulpa Blanda,Carnes Ideal,Carnicería,Carne de Res,KG,Vitrina Carnes,90,30,220,L-INT104,13/6/2026,20/6/2026,3.360,5.148,Frigorífico Ideal,1 día
+ACO-105,7895000000105,Carne Molida de Res,Frigorífico Local,Carnicería,Carne de Res,KG,Vitrina Carnes,40,15,100,L-INT105,15/6/2026,17/6/2026,3.120,4.788,Frigorífico Regional,1 día
+ACO-106,7895000000106,Carne de Res para Estofar / Lagarto,SuKarne,Carnicería,Carne de Res,KG,Vitrina Carnes,50,15,120,L-INT106,13/6/2026,20/6/2026,2.160,3.348,SuKarne,1 día
+ACO-107,7895000000107,Pechuga de Pollo Fresca Bandeja 1kg,Bachoco,Carnicería,Aves,UN,Refrigerador Aves,80,25,200,L-202707,12/6/2026,19/6/2026,1.500,2.388,Bachoco,2 días
+ACO-108,7895000000108,Pierna y Muslo de Pollo Fresco,Mac Pollo,Carnicería,Aves,KG,Vitrina Aves,100,30,250,L-INT108,13/6/2026,20/6/2026,1.020,1.668,Mac Pollo,2 días
+ACO-109,7895000000109,Pollo Entero Congelado,Bachoco,Carnicería,Aves,KG,Congelador Carnes,150,50,400,L-202709,1/5/2026,1/5/2027,840,1.428,Bachoco,3 días
+ACO-110,7895000000110,Tiras / Filete de Pechuga Congelado 1kg,Mac Pollo,Carnicería,Aves,UN,Congelador Carnes,70,20,180,L-202710,15/5/2026,15/5/2027,1.680,2.748,Mac Pollo,3 días
+ACO-111,7895000000111,Pierna de Cerdo con Hueso,Kowi,Carnicería,Carne de Cerdo,KG,Vitrina Carnes,60,20,150,L-INT111,12/6/2026,19/6/2026,1.680,2.628,Grupo Kowi,2 días
+ACO-112,7895000000112,Costilla de Cerdo Fresca,SuKarne,Carnicería,Carne de Cerdo,KG,Vitrina Carnes,40,15,100,L-INT112,13/6/2026,20/6/2026,2.280,3.588,SuKarne,2 días
+ACO-113,7895000000113,Lomo de Cerdo Fresco,Fud,Carnicería,Carne de Cerdo,KG,Vitrina Carnes,35,10,90,L-INT113,13/6/2026,20/6/2026,2.220,3.468,Sigma Alimentos,2 días
+ACO-114,7895000000114,Chorizo Parrillero de Cerdo,Fud,Carnicería,Embutidos,KG,Vitrina Carnes,120,40,300,L-INT114,10/6/2026,25/6/2026,1.620,2.628,Sigma Alimentos,2 días
+ACO-115,7895000000115,Chorizo de Pollo,Bachoco,Carnicería,Embutidos,KG,Vitrina Carnes,60,20,150,L-INT115,11/6/2026,26/6/2026,1.440,2.388,Bachoco,2 días
+ACO-116,7895000000116,Filete de Tilapia Congelado 500g,Dolores,Carnicería,Pescadería,UN,Congelador Carnes,80,25,200,L-202716,1/4/2026,1/4/2027,2.640,4.308,Pinsa,4 días
+ACO-117,7895000000117,Rodajas de Cazón / Pescado Congelado 500g,Tuny,Carnicería,Pescadería,UN,Congelador Carnes,40,15,100,L-202717,15/4/2026,15/4/2027,2.160,3.468,Grupomar,4 días
+ACO-118,7895000000118,Bacalao Desmenuzado 500g,El Rey,Carnicería,Pescadería,UN,Congelador Carnes,30,10,80,L-202718,10/3/2026,10/3/2027,3.000,5.148,Importadora Rey,5 días
+ACO-119,7895000000119,Camarón Pelado Congelado 400g,Dolores,Carnicería,Mariscos,UN,Congelador Carnes,25,10,70,L-202719,20/4/2026,20/4/2027,4.200,6.708,Pinsa,5 días
+ACO-120,7895000000120,Corazones de Pollo Congelados 1kg,Bachoco,Carnicería,Aves Menudencias,UN,Congelador Carnes,50,15,120,L-202720,10/5/2026,10/5/2027,1.920,3.108,Bachoco,3 días
+HOR-121,2000000000121,Tomate Rojo,S/M,Frutas y Verduras,Verduras,KG,Exhibidor 1,50,20,150,,13/6/2026,20/6/2026,540,1.079,Mercado Central,1 día
+HOR-122,2000000000122,Cebolla Blanca,S/M,Frutas y Verduras,Verduras,KG,Exhibidor 1,80,30,200,,10/6/2026,1/7/2026,384,780,Mercado Central,1 día
+HOR-123,2000000000123,Papa Lavada,S/M,Frutas y Verduras,Verduras,KG,Exhibidor 1,120,40,300,,10/6/2026,30/6/2026,420,839,Mercado Central,1 día
+HOR-124,2000000000124,Zanahoria,S/M,Frutas y Verduras,Verduras,KG,Exhibidor 2,60,20,150,,12/6/2026,25/6/2026,360,719,Productor Local A,2 días
+HOR-125,2000000000125,Ajo a Granel,S/M,Frutas y Verduras,Condimentos,KG,Exhibidor 1,30,10,80,,1/6/2026,30/8/2026,1.800,3.468,Importadora Ajo,3 días
+HOR-126,2000000000126,Pimiento Verde,S/M,Frutas y Verduras,Verduras,KG,Exhibidor 2,20,8,60,,13/6/2026,20/6/2026,600,1.188,Productor Local A,2 días
+HOR-127,2000000000127,Chayote,S/M,Frutas y Verduras,Verduras,KG,Exhibidor 2,40,15,100,,13/6/2026,22/6/2026,300,599,Productor Local B,2 días
+HOR-128,2000000000128,Calabacín / Zucchini,S/M,Frutas y Verduras,Verduras,KG,Exhibidor 2,35,10,90,,14/6/2026,21/6/2026,456,839,Productor Local B,2 días
+HOR-129,2000000000129,Plátano / Banana Manzano,S/M,Frutas y Verduras,Frutas,KG,Exhibidor 3,80,30,200,,12/6/2026,18/6/2026,420,839,Mercado Central,1 día
+HOR-130,2000000000130,Plátano / Banana Cavendish,S/M,Frutas y Verduras,Frutas,KG,Exhibidor 3,60,20,150,,12/6/2026,17/6/2026,360,719,Mercado Central,1 día
+HOR-131,2000000000131,Manzana Gala,S/M,Frutas y Verduras,Frutas,KG,Exhibidor 4,50,20,120,,5/6/2026,25/6/2026,720,1.428,Distribuidora Frutas,2 días
+HOR-132,2000000000132,Manzana Fuji,S/M,Frutas y Verduras,Frutas,KG,Exhibidor 4,40,15,100,,5/6/2026,25/6/2026,780,1.548,Distribuidora Frutas,2 días
+HOR-133,2000000000133,Papaya Formosa,S/M,Frutas y Verduras,Frutas,KG,Exhibidor 3,30,10,80,,12/6/2026,19/6/2026,540,1.068,Mercado Central,1 día
+HOR-134,2000000000134,Papaya Pequeña,S/M,Frutas y Verduras,Frutas,UN,Exhibidor 3,40,15,100,,13/6/2026,18/6/2026,360,708,Mercado Central,1 día
+HOR-135,2000000000135,Naranja para Jugo,S/M,Frutas y Verduras,Frutas,KG,Exhibidor 4,100,40,250,,10/6/2026,25/6/2026,300,599,Productor Local C,2 días
+HOR-136,2000000000136,Limón Verde / Tahití,S/M,Frutas y Verduras,Frutas,KG,Exhibidor 4,60,20,150,,8/6/2026,30/6/2026,420,828,Productor Local C,2 días
+HOR-137,2000000000137,Lechuga Crespa,S/M,Frutas y Verduras,Vegetales Frescos,UN,Exhibidor Frío,50,15,100,,14/6/2026,17/6/2026,180,359,Huerta Local,1 día
+HOR-138,2000000000138,Arúgula / Rúcula Manojo,S/M,Frutas y Verduras,Vegetales Frescos,UN,Exhibidor Frío,30,10,70,,14/6/2026,17/6/2026,216,420,Huerta Local,1 día
+HOR-139,2000000000139,Hierbas Frescas (Cilantro/Perejil),S/M,Frutas y Verduras,Condimentos,UN,Exhibidor Frío,60,20,120,,14/6/2026,18/6/2026,120,300,Huerta Local,1 día
+HOR-140,2000000000140,Huevos Blancos Grandes 30 un,San Juan,Frutas y Verduras,Huevos,UN,Pasillo 12,100,30,250,L-202740,10/6/2026,10/7/2026,1.440,2.388,Productora San Juan,3 días
+LIM-141,7896000000141,Detergente en Polvo Lavado Perfecto 1kg,Ariel,Limpieza,Lavandería,UN,Pasillo 13,200,80,500,L-202741,1/5/2026,1/5/2028,1.140,1.908,P&G,3 días
+LIM-142,7896000000142,Detergente en Polvo Regular 1kg,Ace,Limpieza,Lavandería,UN,Pasillo 13,150,50,400,L-202742,15/5/2026,15/5/2028,900,1.500,P&G,3 días
+LIM-143,7896000000143,Detergente Líquido Ariel 2L,Ariel,Limpieza,Lavandería,UN,Pasillo 13,100,30,250,L-202743,10/4/2026,10/4/2028,3.000,4.668,P&G,4 días
+LIM-144,7896000000144,Suavizante Tradicional 2L,Suavitel,Limpieza,Lavandería,UN,Pasillo 13,120,40,300,L-202744,5/5/2026,5/5/2028,1.320,2.148,Colgate-Palmolive,3 días
+LIM-145,7896000000145,Suavizante Downy Brisa de Verano 1L,Downy,Limpieza,Lavandería,UN,Pasillo 13,90,30,200,L-202745,20/5/2026,20/5/2028,1.680,2.748,P&G,4 días
+LIM-146,7896000000146,Lavaplatos Líquido Neutro 500ml,Salvo,Limpieza,Cocina,UN,Pasillo 14,500,150,1200,L-202746,1/6/2026,1/6/2028,180,299,P&G,2 días
+LIM-147,7896000000147,Lavaplatos Líquido Limón 500ml,Axión,Limpieza,Cocina,UN,Pasillo 14,300,100,800,L-202747,2/6/2026,2/6/2028,180,299,Colgate-Palmolive,2 días
+LIM-148,7896000000148,Lavaplatos Líquido Clear 500ml,Ayudín,Limpieza,Cocina,UN,Pasillo 14,250,80,600,L-202748,10/5/2026,10/5/2028,168,282,Clorox,3 días
+LIM-149,7896000000149,Esponja Multiuso Doble Cara 3 un,Scotch-Brite,Limpieza,Accesorios,UN,Pasillo 14,150,50,350,L-202749,15/4/2026,Indeterminado,360,599,3M,4 días
+LIM-150,7896000000150,Esponja / Lana de Acero 8 un,Brillo,Limpieza,Accesorios,UN,Pasillo 14,200,60,500,L-202750,1/5/2026,Indeterminado,300,504,Armaly Brands,3 días
+LIM-151,7896000000151,Desinfectante Pino 1L,Pinol,Limpieza,Limpieza General,UN,Pasillo 15,120,40,300,L-202751,20/5/2026,20/5/2028,720,1.140,Alen,3 días
+LIM-152,7896000000152,Desinfectante Lavanda 2L,Fabuloso,Limpieza,Limpieza General,UN,Pasillo 15,90,30,200,L-202752,10/6/2026,10/6/2028,1.020,1.668,Colgate-Palmolive,3 días
+LIM-153,7896000000153,Limpiador Multiuso Tradicional 500ml,Mr. Músculo,Limpieza,Limpieza General,UN,Pasillo 15,180,60,400,L-202753,5/6/2026,5/6/2028,504,780,SC Johnson,3 días
+LIM-154,7896000000154,Cloro / Lejía 2L,Cloralex,Limpieza,Limpieza General,UN,Pasillo 15,250,80,600,L-202754,1/6/2026,1/12/2026,420,719,Alen,2 días
+LIM-155,7896000000155,Alcohol Líquido 70% 1L,Genérico,Limpieza,Limpieza General,UN,Pasillo 15,150,50,350,L-202755,15/5/2026,15/5/2028,780,1.260,Distribuidora Química,3 días
+LIM-156,7896000000156,Bolsas para Basura 50L 30 un,Glad,Limpieza,Accesorios,UN,Pasillo 15,100,30,250,L-202756,10/4/2026,Indeterminado,960,1.548,Clorox,4 días
+LIM-157,7896000000157,Bolsas para Basura 100L 15 un,Reynolds,Limpieza,Accesorios,UN,Pasillo 15,80,25,200,L-202757,12/4/2026,Indeterminado,1.200,1.980,Reynolds,4 días
+LIM-158,7896000000158,Insecticida Aerosol 380ml,Baygon,Limpieza,Insecticidas,UN,Pasillo 15,90,30,220,L-202758,1/5/2026,1/5/2028,1.380,2.268,SC Johnson,3 días
+LIM-159,7896000000159,Insecticida Aerosol 380ml,Raid,Limpieza,Insecticidas,UN,Pasillo 15,80,25,200,L-202759,15/5/2026,15/5/2028,1.440,2.340,SC Johnson,3 días
+LIM-160,7896000000160,Pastilla Inodoro / Desodorante para Baño,Glade,Limpieza,Baño,UN,Pasillo 15,150,50,350,L-202760,20/4/2026,20/4/2028,300,504,SC Johnson,4 días
+LIM-161,7896000000161,Limpiador de Muebles Lavanda 200ml,Pledge / Blem,Limpieza,Limpieza Específica,UN,Pasillo 15,60,20,150,L-202761,10/5/2026,10/5/2028,780,1.308,SC Johnson,4 días
+LIM-162,7896000000162,Limpiavidrios Gatillo 500ml,Windex,Limpieza,Limpieza Específica,UN,Pasillo 15,70,25,180,L-202762,5/6/2026,5/6/2028,900,1.500,SC Johnson,3 días
+LIM-163,7896000000163,Jalador / Escurridor de Pisos,Vileda,Limpieza,Accesorios,UN,Pasillo 15,40,15,100,L-202763,1/1/2026,Indeterminado,1.440,2.388,Freudenberg,5 días
+LIM-164,7896000000164,Escoba Plástica / Fibra,Vileda,Limpieza,Accesorios,UN,Pasillo 15,50,15,120,L-202764,15/1/2026,Indeterminado,1.680,2.868,Freudenberg,5 días
+LIM-165,7896000000165,Trapo / Paño para Pisos,Scotch-Brite,Limpieza,Accesorios,UN,Pasillo 15,100,30,250,L-202765,20/2/2026,Indeterminado,420,780,3M,5 días
+LIM-166,7896000000166,Jabón en Barra Lavandería 400g,Zote,Limpieza,Lavandería,UN,Pasillo 13,120,40,300,L-202766,10/5/2026,10/5/2028,816,1.308,Fábrica de Jabón La Corona,3 días
+LIM-167,7896000000167,Quitamanchas en Polvo 450g,Vanish,Limpieza,Lavandería,UN,Pasillo 13,80,25,200,L-202767,1/6/2026,1/6/2028,1.800,2.988,Reckitt,3 días
+LIM-168,7896000000168,Suavizante Concentrado 500ml,Downy,Limpieza,Lavandería,UN,Pasillo 13,100,30,250,L-202768,15/5/2026,15/5/2028,1.260,2.100,P&G,4 días
+LIM-169,7896000000169,Esponja de Acero Inoxidable,Scotch-Brite,Limpieza,Accesorios,UN,Pasillo 14,90,30,220,L-202769,10/4/2026,Indeterminado,336,599,3M,4 días
+LIM-170,7896000000170,Desengrasante Gatillo 500ml,Cif,Limpieza,Cocina,UN,Pasillo 14,75,25,180,L-202770,5/5/2026,5/5/2028,1.020,1.740,Unilever,3 días
+HIG-171,7897000000171,Jabón de Tocador Blanco 90g,Dove,Cuidado Personal,Baño,UN,Pasillo 16,250,80,600,L-202771,1/5/2026,1/5/2029,300,504,Unilever,3 días
+HIG-172,7897000000172,Jabón de Tocador Rosa 90g,Lux,Cuidado Personal,Baño,UN,Pasillo 16,200,60,500,L-202772,10/5/2026,10/5/2029,216,359,Unilever,3 días
+HIG-173,7897000000173,Jabón Antibacterial 90g,Protex,Cuidado Personal,Baño,UN,Pasillo 16,180,60,450,L-202773,15/5/2026,15/5/2029,264,444,Colgate-Palmolive,3 días
+HIG-174,7897000000174,Shampoo Anticaspa Clásico 200ml,Head & Shoulders,Cuidado Personal,Cabello,UN,Pasillo 16,100,30,250,L-202774,1/4/2026,1/4/2029,1.440,2.388,P&G,4 días
+HIG-175,7897000000175,Shampoo Hidratación 200ml,Pantene,Cuidado Personal,Cabello,UN,Pasillo 16,120,40,300,L-202775,15/4/2026,15/4/2029,1.380,2.268,P&G,4 dias
+HIG-176,7897000000176,Acondicionador Hidratación 200ml,Sedal / Sunsilk,Cuidado Personal,Cabello,UN,Pasillo 16,100,30,250,L-202776,15/4/2026,15/4/2029,1.500,2.460,Unilever,4 dias
+HIG-177,7897000000177,Crema Dental Triple Acción 90g,Colgate,Cuidado Personal,Bucal,UN,Pasillo 17,300,100,800,L-202777,1/6/2026,1/6/2029,336,540,Colgate-Palmolive,3 días
+HIG-178,7897000000178,Crema Dental Protección 90g,Crest,Cuidado Personal,Bucal,UN,Pasillo 17,250,80,600,L-202778,10/5/2026,10/5/2029,264,432,P&G,3 días
+HIG-179,7897000000179,Cepillo Dental Suave 2 un,Oral-B,Cuidado Personal,Bucal,UN,Pasillo 17,150,50,350,L-202779,1/3/2026,Indeterminado,1.020,1.788,P&G,4 días
+HIG-180,7897000000180,Enjuague Bucal Menta 500ml,Listerine,Cuidado Personal,Bucal,UN,Pasillo 17,80,25,200,L-202780,15/5/2026,15/5/2029,1.920,3.228,Kenvue,4 días
+HIG-181,7897000000181,Hilo Dental 50m,Johnson's,Cuidado Personal,Bucal,UN,Pasillo 17,120,40,300,L-202781,20/4/2026,Indeterminado,720,1.188,Kenvue,4 días
+HIG-182,7897000000182,Papel Higiénico Doble Hoja 30m c/ 12,Pétalo,Cuidado Personal,Uso Personal,UN,Pasillo 18,150,50,400,L-202782,1/6/2026,Indeterminado,1.680,2.748,Kimberly-Clark,3 días
+HIG-183,7897000000183,Papel Higiénico Hoja Simple 30m c/ 4,Scott,Cuidado Personal,Uso Personal,UN,Pasillo 18,200,60,500,L-202783,10/6/2026,Indeterminado,456,780,Kimberly-Clark,3 días
+HIG-184,7897000000184,Toalla Femenina / Sanitaria con Alas c/ 8,Kotex,Cuidado Personal,Íntima,UN,Pasillo 18,120,40,300,L-202784,5/5/2026,5/5/2029,540,948,Kimberly-Clark,4 días
+HIG-185,7897000000185,Toalla Femenina Nocturna c/ 8,Saba / Nosotras,Cuidado Personal,Íntima,UN,Pasillo 18,90,30,220,L-202785,15/5/2026,15/5/2029,720,1.260,Essity,4 días
+HIG-186,7897000000186,Desodorante Aerosol Invisible 150ml,Rexona,Cuidado Personal,Desodorantes,UN,Pasillo 16,150,50,350,L-202786,1/6/2026,1/6/2029,1.320,2.268,Unilever,3 días
+HIG-187,7897000000187,Desodorante Aerosol Men 150ml,Dove,Cuidado Personal,Desodorantes,UN,Pasillo 16,100,30,250,L-202787,10/5/2026,10/5/2029,1.500,2.580,Unilever,3 días
+HIG-188,7897000000188,Desodorante Roll-on 50ml,Lady Speed Stick,Cuidado Personal,Desodorantes,UN,Pasillo 16,80,25,200,L-202788,20/4/2026,20/4/2029,660,1.140,Colgate-Palmolive,4 días
+HIG-189,7897000000189,Máquina de Afeitar / Rastrillo Lleve 3 Pague 2,Gillette,Cuidado Personal,Afeitado,UN,Pasillo 16,120,40,300,L-202789,15/3/2026,Indeterminado,1.800,2.988,P&G,4 días
+HIG-190,7897000000190,Espuma de Afeitar 150g,Nivea Men,Cuidado Personal,Afeitado,UN,Pasillo 16,60,20,150,L-202790,5/4/2026,5/4/2029,1.020,1.788,Beiersdorf,4 días
+HIG-191,7897000000191,Pañal Desechable P c/ 36,Pampers,Cuidado Personal,Infantil,UN,Pasillo 19,60,20,150,L-202791,1/5/2026,1/5/2029,4.200,6.708,P&G,3 días
+HIG-192,7897000000192,Pañal Desechable M c/ 32,Pampers,Cuidado Personal,Infantil,UN,Pasillo 19,80,25,200,L-202792,5/5/2026,5/5/2029,4.200,6.708,P&G,3 días
+HIG-193,7897000000193,Pañal Desechable G c/ 28,Huggies,Cuidado Personal,Infantil,UN,Pasillo 19,70,25,180,L-202793,10/5/2026,10/5/2029,3.360,5.508,Kimberly-Clark,3 días
+HIG-194,7897000000194,Toallitas Húmedas c/ 48,Johnson's Baby,Cuidado Personal,Infantil,UN,Pasillo 19,120,40,300,L-202794,15/5/2026,15/5/2029,1.020,1.740,Kenvue,4 días
+HIG-195,7897000000195,Shampoo Infantil 200ml,Johnson's Baby,Cuidado Personal,Infantil,UN,Pasillo 19,90,30,220,L-202795,20/5/2026,20/5/2029,1.320,2.220,Kenvue,4 días
+HIG-196,7897000000196,Algodón en Discos 50 un,Jaloma,Cuidado Personal,Botiquín,UN,Pasillo 18,100,30,250,L-202796,1/4/2026,1/4/2031,660,1.140,Jaloma,5 días
+HIG-197,7897000000197,Hisopos / Cotonetes c/ 75,Q-tips,Cuidado Personal,Uso Personal,UN,Pasillo 18,150,50,350,L-202797,10/4/2026,Indeterminado,456,780,Unilever,4 días
+HIG-198,7897000000198,Curitas / Vendajes Adhesivos c/ 10,Band-Aid,Cuidado Personal,Botiquín,UN,Pasillo 18,120,40,300,L-202798,15/4/2026,15/4/2031,540,948,Kenvue,5 días
+HIG-199,7897000000199,Agua Oxigenada 10v 100ml,Genérico,Cuidado Personal,Botiquín,UN,Pasillo 18,80,25,200,L-202799,1/5/2026,1/5/2029,300,540,Farmacias,5 días
+HIG-200,7897000000200,Preservativo / Condón c/ 3,Trojan,Cuidado Personal,Íntima,UN,Caja PDV,200,60,500,L-202800,10/5/2026,10/5/2031,576,1.020,Church & Dwight,3 días
