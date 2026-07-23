@@ -66,4 +66,4 @@ El agente tiene soporte multilingüe nativo. Puede responder en el idioma en el 
 ☁️ Evidencia del Deploy en la Nube
 
 La aplicación ha sido desplegada exitosamente y es accesible públicamente en el siguiente enlace:
-👉 [ENLACE_DEDEPLOY_PROXIMAMENTE]
+👉 **https://agentemercadocentral.streamlit.app/**
