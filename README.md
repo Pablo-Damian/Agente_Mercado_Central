@@ -30,7 +30,12 @@ El agente tiene soporte multilingüe nativo. Puede responder en el idioma en el 
 
 - **Español:** *"¿Tienen en stock Arroz Integral Molinos Ala y cuál es su precio?"*
 - **Inglés:** *"What are the levels of the Central VIP Customer program?"*
-- **Portugués:** *"Qual é a política de devolução para carnes e pescados?"*
+- **Portugués:** *"O estacionamento tem algum custo para os clientes?"*
+
+### 📸 Capturas de la demostración:
+<img width="1190" height="527" alt="asistente_mercado_central 24h_captura01" src="https://github.com/user-attachments/assets/7f32e09b-a969-4a7f-bed9-e4323c168b99" />
+<img width="1190" height="363" alt="asistente_mercado_central 24h_captura02" src="https://github.com/user-attachments/assets/4bf5c928-73ec-415f-8ddf-9da6012f2d6e" />
+<img width="1190" height="585" alt="asistente_mercado_central 24h_captura03" src="https://github.com/user-attachments/assets/eb30f6a0-1446-4e35-a704-b1571f8da283" />
 
 ## 🚀 Instrucciones para ejecutar localmente
 
