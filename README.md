@@ -28,9 +28,9 @@ Para garantizar latencia ultra-baja y alta precisión en consultas de inventario
 ## 💬 Ejemplos de Preguntas Soportadas
 El agente tiene soporte multilingüe nativo. Puede responder en el idioma en el que se le pregunte leyendo las fuentes en español:
 
-- **Español:** *"¿Tienen en stock Arroz Integral Molinos Ala y cuál es su precio?"*
-- **Inglés:** *"What are the levels of the Central VIP Customer program?"*
-- **Portugués:** *"O estacionamento tem algum custo para os clientes?"*
+- **Español:** *"¿Tienen en stock Arroz Integral Molinos Ala y cuál es su precio?"* 🇪🇸
+- **Inglés:** *"What are the levels of the Central VIP Customer program?"* 🇬🇧
+- **Portugués:** *"O estacionamento tem algum custo para os clientes?"* 🇵🇹
 
 ### 📸 Capturas de la demostración:
 <img width="1190" height="527" alt="asistente_mercado_central 24h_captura01" src="https://github.com/user-attachments/assets/7f32e09b-a969-4a7f-bed9-e4323c168b99" />
